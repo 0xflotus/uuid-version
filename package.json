@@ -1,0 +1,22 @@
+{
+  "name": "uuid-version",
+  "version": "1.0.0",
+  "description": "This package helps you to recognize the version of a given uuid",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xflotus/uuid-version.git"
+  },
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [
+    "uuid"
+  ],
+  "author": "0xflotus",
+  "license": "MIT",
+  "devDependencies": {
+    "uuid": "^11.1.0"
+  }
+}
